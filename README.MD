@@ -1,8 +1,8 @@
-# Migrate transaction_id from Integer to Bigint.
+# Migrate data from one column to another
 
 ## Why
 
-The transactionId from arvato service seems increasing and during test there was out of range exception.
+Example: The transactionId from arvato service seems increasing and during test there was out of range exception.
 
 ## How to run migration
 
