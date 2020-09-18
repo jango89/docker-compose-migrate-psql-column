@@ -2,7 +2,7 @@
 
 ## Why
 
-Example: The transactionId from arvato service seems increasing and during test there was out of range exception.
+Example: The transactionId in a service seems increasing and during test there was out of range exception.
 
 ## How to run migration
 
