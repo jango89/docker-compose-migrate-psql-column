@@ -15,3 +15,5 @@ Just run `docker-compose up --build` to run the migration.
 `.env` File - Customize the values.
 
 `pgpass.conf` File - Please provide the "_hostname:db_name:user:password_" and do not commit. 
+
+`sql_function.sql` File - Needs to be commited to the database.
